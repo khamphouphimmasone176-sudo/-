@@ -1,7 +1,7 @@
 local PlaceId = game.PlaceId
 
 local MapScripts = {
-    [11111111] = "ลิงก์_Raw_ของไฟล์_farm.lua",   -- ถ้าอยู่แมพนี้ มันจะไปดึงโค้ดในไฟล์ farm.lua มาเปิด
+    [107778070777162] = "https://raw.githubusercontent.com/khamphouphimmasone176-sudo/-/refs/heads/main/steal.lua",   -- ถ้าอยู่แมพนี้ มันจะไปดึงโค้ดในไฟล์ farm.lua มาเปิด
     [2222222]  = "ลิงก์_Raw_ของไฟล์_steal.lua",  -- ถ้าอยู่แมพนี้ มันจะไปดึงโค้ดในไฟล์ steal.lua มาเปิด
 }
 
